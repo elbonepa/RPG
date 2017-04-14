@@ -1,0 +1,5 @@
+4 'NUMITEMS
+resources/img/arrow_invent.png 1 30 2 'PATH (INVENTORY), TYPE, KNOCKBACK, DAMAGE
+resources/img/arrow_invent.png 3 15 2 'PATH (INVENTORY), TYPE, KNOCKBACK, DAMAGE
+resources/img/gun_invent.png 2 15 2 'PATH (INVENTORY), TYPE, KNOCKBACK, DAMAGE
+resources/img/sword_invent.png 1 15 2 'PATH (INVENTORY), TYPE, KNOCKBACK, DAMAGE

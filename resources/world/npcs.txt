@@ -1,0 +1,14 @@
+2
+
+4 4 Carlitos
+1 'number of texts
+Hola, soy Carlitos.
+0 'hostile
+0 'HP
+0 'damage
+
+10 8 Test
+0 'number of texts
+0 'hostile
+20 'HP
+5 'damage
